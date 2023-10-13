@@ -79,3 +79,19 @@ img
     max-width: 100%;
     height: auto;
 }
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+#Middle-text{
+    width: 30%;
+    margin: 0.5%;
+    display: inline-flex;
+    text-align: justify ;
+    padding: 10px;
+}
+
+
+
+
